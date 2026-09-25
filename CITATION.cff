@@ -5,6 +5,7 @@ authors:
   given-names: "Nauman"
   orcid: "https://orcid.org/0009-0001-9622-8266"
 title: "ABW-Agent-Cyber-Risk"
-version: 1.0.1
 date-released: 2026-09-25
 url: "https://github.com/naumanansari/ABW-Agent-Cyber-Risk"
+version: 1.0.2
+doi: 10.5281/zenodo.22968028
