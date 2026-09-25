@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22968028.svg)](https://doi.org/10.5281/zenodo.22968028)
+
 # Supplementary Material
 
 Companion code and data for:
